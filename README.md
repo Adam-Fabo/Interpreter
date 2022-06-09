@@ -1,6 +1,6 @@
-# IPP_projekt - interpret
-Interpretuje medzikód IFJcode20(podobné asembleru)  
+# Interpreters
+Interprets code like assembler using Python.
   
-Pre viac viz [zadanie](IPP_zadanie.pdf)
+For more see [assignment](IPP_zadanie.pdf) (czech language)
 
 ![alt-text](IPP_schema.png)
